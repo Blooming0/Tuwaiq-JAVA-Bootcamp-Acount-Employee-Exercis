@@ -24,5 +24,8 @@ public class Main {
         emp.getSalary();
         emp.getAnnualSalary();
         emp.raisedSalary(10);
+
+        // TString method
+        System.out.println(emp.toString());
     }
 }
